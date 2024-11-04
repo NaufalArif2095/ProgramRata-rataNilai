@@ -31,6 +31,6 @@ public class RataRataNilai {
 
         double rataRata = totalNilai / jumlahMahasiswa;
         System.out.println("\nMaka, Rata-rata Nilainya adalah " + rataRata);
-        System.out.println("Developed by: Rizki Adam Kurniawan");
+        System.out.println("Developed by: Naufal Arif Maulana");
     }
 }
